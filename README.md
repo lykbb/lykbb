@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile-terminal-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/profile-terminal-light.svg">
-    <img src="assets/profile-terminal-light.svg" width="100%" alt="终端窗口：Yukun Liu · AI 产品。探索 AI 产品，实践 Agent 与 RAG，记录学习和实践中的问题与思考。点击打开 main.yukunlab.com">
+    <img src="assets/profile-terminal-light.svg" width="600" alt="终端窗口：Yukun Liu · AI 产品。探索 AI 产品，实践 Agent 与 RAG，记录学习和实践中的问题与思考。点击打开 main.yukunlab.com">
   </picture>
 </a>
 
