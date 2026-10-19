@@ -47,5 +47,6 @@ A Codex skill that checks Xiaohongshu and Douyin copy, voiceovers, and subtitles
 
 ### 📬 Find Me
 
-<!-- TODO: replace placeholder accounts and QR code in assets/contact-card-en.svg and assets/contact-card.svg -->
-<img src="https://raw.githubusercontent.com/lykbb/lykbb/3863cc2a29bfa76c8d4f81f96e07edaf4703be5f/assets/contact-card-en.svg" width="100%" alt="Find Me: Xiaohongshu, Douyin, WeChat, WeChat Official Account QR code">
+<img src="https://raw.githubusercontent.com/lykbb/lykbb/02c8b0ea12a4f872480b850220fc6486ce1c9010/assets/contact-card-en.svg" width="100%" alt="Find Me: Xiaohongshu, Douyin, WeChat, WeChat Official Account QR code">
+
+<p align="center"><a href="https://main.yukunlab.com/">Website</a> · <a href="https://xhslink.cn/o/1aomKivHwPy">Xiaohongshu</a> · <a href="https://v.douyin.com/BzNw-qBYZjU">Douyin</a> · <a href="https://x.com/lyukun8848">X @lyukun8848</a> · <a href="https://x.com/Liuyukun00">X @Liuyukun00</a></p>
