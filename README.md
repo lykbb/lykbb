@@ -18,7 +18,3 @@ Focusing on **AI Products, Agentic Systems, and RAG Architecture**.
 - 💬 **Ask me about**: AI 产品设计 / Agent 架构 / RAG 实践 / 体验设计
 
 ✨ *Let's build something awesome with AI.*
-
-<p align="center">
-  <a href="https://main.yukunlab.com/">个人网站</a> · <a href="https://github.com/lykbb?tab=repositories">全部仓库</a>
-</p>
