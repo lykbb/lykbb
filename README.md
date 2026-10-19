@@ -3,9 +3,9 @@
 <a href="https://main.yukunlab.com/">
   <!-- Pin SVGs to their asset commit to avoid stale GitHub image caches. -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/9552fa2e9ba364e5cbaec84ee9ed8000cf45b081/assets/profile-terminal-dark-en.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/9552fa2e9ba364e5cbaec84ee9ed8000cf45b081/assets/profile-terminal-light-en.svg">
-    <img src="https://raw.githubusercontent.com/lykbb/lykbb/9552fa2e9ba364e5cbaec84ee9ed8000cf45b081/assets/profile-terminal-light-en.svg" width="100%" alt="Terminal window: Yukun Liu · AI Product Manager. Exploring AI products, building with Agents and RAG. Notes on what I learn and think along the way. Click to open main.yukunlab.com">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/b4f731ddd6a42adcbc7d7a97082321930d70085f/assets/profile-terminal-dark-en.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/b4f731ddd6a42adcbc7d7a97082321930d70085f/assets/profile-terminal-light-en.svg">
+    <img src="https://raw.githubusercontent.com/lykbb/lykbb/b4f731ddd6a42adcbc7d7a97082321930d70085f/assets/profile-terminal-light-en.svg" width="100%" alt="Terminal window: Yukun Liu · AI Product Manager. Exploring AI products, building with Agents and RAG. Notes on what I learn and think along the way. Click to open main.yukunlab.com">
   </picture>
 </a>
 
