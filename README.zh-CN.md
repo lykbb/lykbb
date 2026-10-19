@@ -1,6 +1,4 @@
-<p align="right"><a href="README.md">English</a> | <b>中文</b></p>
-
-### 👋 你好，我是刘宇坤
+<h3><a href="README.md"><img align="right" src="https://raw.githubusercontent.com/lykbb/lykbb/98b7c03222a6e2c1d18f481098cf26eec235fd41/assets/lang-switch-zh.svg" height="22" alt="English | 中文（切换到英文）"></a>👋 你好，我是刘宇坤</h3>
 
 <a href="https://main.yukunlab.com/">
   <!-- Pin SVGs to their asset commit to avoid stale GitHub image caches. -->
@@ -13,8 +11,7 @@
 
 ### ✨ 一起用 AI 做点了不起的东西。
 
-🎯 **AI 产品经理 & 探索者** · 专注 **AI 产品、Agent 系统与 RAG 架构**。
-
+🎯 **AI 产品经理 & 探索者** · 专注 **AI 产品、Agent 系统与 RAG 架构**。<br>
 💡 **我在做什么**：探索 AI 边界，设计并落地具备真实价值的 Agent 与 RAG 产品<br>
 🛠️ **正在搭建**：智能体产品原型、工作流工具与个人知识库系统<br>
 ✍️ **写作与分享**：记录产品构想、技术选型与实践复盘<br>

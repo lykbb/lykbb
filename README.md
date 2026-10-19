@@ -1,6 +1,4 @@
-<p align="right"><b>English</b> | <a href="README.zh-CN.md">中文</a></p>
-
-### 👋 Hi there, I'm Yukun Liu
+<h3><a href="README.zh-CN.md"><img align="right" src="https://raw.githubusercontent.com/lykbb/lykbb/98b7c03222a6e2c1d18f481098cf26eec235fd41/assets/lang-switch-en.svg" height="22" alt="English | 中文 (switch to Chinese)"></a>👋 Hi there, I'm Yukun Liu</h3>
 
 <a href="https://main.yukunlab.com/">
   <!-- Pin SVGs to their asset commit to avoid stale GitHub image caches. -->
@@ -13,8 +11,7 @@
 
 ### ✨ Let's build something awesome with AI.
 
-🎯 **AI Product Manager & Explorer** · Focusing on **AI Products, Agentic Systems, and RAG Architecture**.
-
+🎯 **AI Product Manager & Explorer** · Focusing on **AI Products, Agentic Systems, and RAG Architecture**.<br>
 💡 **What I Do**: Exploring the edges of AI, and designing and shipping Agent and RAG products with real value<br>
 🛠️ **Currently Building**: Agent product prototypes, workflow tools, and a personal knowledge base<br>
 ✍️ **Writing & Sharing**: Notes on product ideas, tech choices, and retrospectives<br>
