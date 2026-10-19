@@ -48,4 +48,4 @@ RAG 实践 demo。
 ### 📬 联系我
 
 <!-- TODO: 替换卡片里的占位账号和公众号二维码（assets/contact-card.svg） -->
-<img src="https://raw.githubusercontent.com/lykbb/lykbb/050d95fa001eaaf2cbef107342217053cc167cc4/assets/contact-card.svg" width="100%" alt="联系方式：小红书、抖音、微信、公众号二维码">
+<img src="https://raw.githubusercontent.com/lykbb/lykbb/3863cc2a29bfa76c8d4f81f96e07edaf4703be5f/assets/contact-card.svg" width="100%" alt="联系方式：小红书、抖音、微信、公众号二维码">
