@@ -1,12 +1,12 @@
+### 👋 Hi there, I'm Yukun Liu
+
 <a href="https://main.yukunlab.com/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-intro-aurora-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile-intro-aurora-light.svg">
-    <img src="assets/profile-intro-aurora-light.svg" width="100%" alt="Yukun · AI 产品、Agent 与 RAG。探索 AI 产品，实践 Agent 与 RAG，记录学习和实践中的问题与思考。">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-intro-aurora-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="assets/profile-intro-aurora-light.svg?v=2">
+    <img src="assets/profile-intro-aurora-light.svg?v=2" width="100%" alt="Yukun Liu · AI 产品、Agent 与 RAG。探索 AI 产品，实践 Agent 与 RAG，记录学习和实践中的问题与思考。">
   </picture>
 </a>
-
-### 👋 Hi there, I'm Yukun (lykbb)
 
 🎯 **AI Product Manager & Explorer**<br>
 Focusing on **AI Products, Agentic Systems, and RAG Architecture**.
