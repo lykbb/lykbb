@@ -3,11 +3,11 @@
 <text x="40" y="52" font-family="'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif" font-size="16">📕</text>
 <text x="66" y="52" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#6b675f">小红书</text>
 <text x="150" y="52" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="16" font-weight="600" fill="#1f1d1a">数字泡泡～</text>
-<line x1="40" y1="69" x2="520" y2="69" stroke="#e6e2d9"/>
+<line x1="40" y1="64" x2="520" y2="64" stroke="#e6e2d9"/>
 <text x="40" y="88" font-family="'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif" font-size="16">🎵</text>
 <text x="66" y="88" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#6b675f">抖音</text>
 <text x="150" y="88" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="16" font-weight="600" fill="#1f1d1a">数字泡泡～</text>
-<line x1="40" y1="105" x2="520" y2="105" stroke="#e6e2d9"/>
+<line x1="40" y1="100" x2="520" y2="100" stroke="#e6e2d9"/>
 <text x="40" y="124" font-family="'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif" font-size="16">💬</text>
 <text x="66" y="124" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#6b675f">微信</text>
 <text x="150" y="124" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="16" font-weight="600" fill="#1f1d1a">待补充</text>
