@@ -1,10 +1,11 @@
 ### 👋 Hi there, I'm Yukun Liu
 
 <a href="https://main.yukunlab.com/">
+  <!-- Pin SVGs to their asset commit to avoid stale GitHub image caches. -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-terminal-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile-terminal-light.svg">
-    <img src="assets/profile-terminal-light.svg" width="600" alt="终端窗口：Yukun Liu · AI 产品。探索 AI 产品，实践 Agent 与 RAG，记录学习和实践中的问题与思考。点击打开 main.yukunlab.com">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/8215a6c105a7f79a2ae411cd3d1b7800680fded0/assets/profile-terminal-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/8215a6c105a7f79a2ae411cd3d1b7800680fded0/assets/profile-terminal-light.svg">
+    <img src="https://raw.githubusercontent.com/lykbb/lykbb/8215a6c105a7f79a2ae411cd3d1b7800680fded0/assets/profile-terminal-light.svg" width="600" alt="终端窗口：Yukun Liu · AI 产品。探索 AI 产品，实践 Agent 与 RAG，记录学习和实践中的问题与思考。点击打开 main.yukunlab.com">
   </picture>
 </a>
 
@@ -36,6 +37,6 @@ Focusing on **AI Products, Agentic Systems, and RAG Architecture**.
 ### 📬 Find Me
 
 <!-- TODO: 替换卡片里的占位账号和公众号二维码（assets/contact-card.svg） -->
-<img src="assets/contact-card.svg" width="100%" alt="联系方式：小红书、抖音、微信、公众号二维码">
+<img src="https://raw.githubusercontent.com/lykbb/lykbb/8215a6c105a7f79a2ae411cd3d1b7800680fded0/assets/contact-card.svg" width="100%" alt="联系方式：小红书、抖音、微信、公众号二维码">
 
 <sub>📕 [小红书](https://www.xiaohongshu.com/) · 🎵 [抖音](https://www.douyin.com/)</sub>
