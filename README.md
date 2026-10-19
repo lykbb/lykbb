@@ -1,10 +1,11 @@
 ### 👋 Hi there, I'm Yukun Liu
 
 <a href="https://main.yukunlab.com/">
+  <!-- Pin SVGs to their asset commit to avoid stale GitHub image caches. -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-intro-aurora-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile-intro-aurora-light.svg?v=2">
-    <img src="assets/profile-intro-aurora-light.svg?v=2" width="100%" alt="Yukun Liu · AI 产品、Agent 与 RAG。探索 AI 产品，实践 Agent 与 RAG，记录学习和实践中的问题与思考。">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/44239c60af730ad005d4f6952b021c79268cf7f9/assets/profile-intro-aurora-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/44239c60af730ad005d4f6952b021c79268cf7f9/assets/profile-intro-aurora-light.svg">
+    <img src="https://raw.githubusercontent.com/lykbb/lykbb/44239c60af730ad005d4f6952b021c79268cf7f9/assets/profile-intro-aurora-light.svg" width="100%" alt="Yukun Liu · AI 产品、Agent 与 RAG。探索 AI 产品，实践 Agent 与 RAG，记录学习和实践中的问题与思考。">
   </picture>
 </a>
 
