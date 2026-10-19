@@ -47,6 +47,6 @@ RAG 实践 demo。
 
 ### 📬 联系我
 
-<img src="https://raw.githubusercontent.com/lykbb/lykbb/02c8b0ea12a4f872480b850220fc6486ce1c9010/assets/contact-card.svg" width="100%" alt="联系方式：小红书、抖音、微信、公众号二维码">
+<img src="https://raw.githubusercontent.com/lykbb/lykbb/ca1958dbb54a84efe851cbec7fc50e3a4c301e74/assets/contact-card.svg" width="100%" alt="联系方式：小红书、抖音、微信、公众号二维码">
 
-<p align="center"><a href="https://main.yukunlab.com/">网站</a> · <a href="https://xhslink.cn/o/1aomKivHwPy">小红书</a> · <a href="https://v.douyin.com/BzNw-qBYZjU">抖音</a> · <a href="https://x.com/lyukun8848">X @lyukun8848</a> · <a href="https://x.com/Liuyukun00">X @Liuyukun00</a></p>
+<p align="center">📕 小红书 <a href="https://xhslink.cn/o/1aomKivHwPy"><b>数字泡泡～</b></a> · 🎵 抖音 <a href="https://v.douyin.com/BzNw-qBYZjU"><b>数字泡泡～</b></a> · 📰 公众号 <b>AI时分</b></p>
