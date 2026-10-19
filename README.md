@@ -1,13 +1,14 @@
+**English** | [中文](README.zh-CN.md)
+
 ### 👋 Hi there, I'm Yukun Liu
 
 <a href="https://main.yukunlab.com/">
   <!-- Pin SVGs to their asset commit to avoid stale GitHub image caches. -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/0e46f4180976c6c937d2bb38897b5800cd6d5183/assets/profile-terminal-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/0e46f4180976c6c937d2bb38897b5800cd6d5183/assets/profile-terminal-light.svg">
-    <img src="https://raw.githubusercontent.com/lykbb/lykbb/0e46f4180976c6c937d2bb38897b5800cd6d5183/assets/profile-terminal-light.svg" width="100%" alt="终端窗口：Yukun Liu · AI 产品。探索 AI 产品，实践 Agent 与 RAG，记录学习和实践中的问题与思考。点击打开 main.yukunlab.com">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/ae59bc13c257c54561316302e7fdc139571e29a5/assets/profile-terminal-dark-en.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/ae59bc13c257c54561316302e7fdc139571e29a5/assets/profile-terminal-light-en.svg">
+    <img src="https://raw.githubusercontent.com/lykbb/lykbb/ae59bc13c257c54561316302e7fdc139571e29a5/assets/profile-terminal-light-en.svg" width="100%" alt="Terminal window: Yukun Liu · AI Product Manager. Exploring AI products, building with Agents and RAG. Notes on what I learn and think along the way. Click to open main.yukunlab.com">
   </picture>
-
 </a>
 
 ### ✨ Let's build something awesome with AI.
@@ -15,40 +16,40 @@
 🎯 **AI Product Manager & Explorer**<br>
 Focusing on **AI Products, Agentic Systems, and RAG Architecture**.
 
-💡 **What I Do**: 探索 AI 边界，设计并落地具备真实价值的 Agent 与 RAG 产品<br>
-🛠️ **Currently Building**: 智能体产品原型、工作流工具与个人知识库系统<br>
-✍️ **Writing & Sharing**: 记录产品构想、技术选型与实践复盘<br>
-💬 **Ask me about**: AI 产品设计 / Agent 架构 / RAG 实践 / 体验设计
+💡 **What I Do**: Exploring the edges of AI, and designing and shipping Agent and RAG products with real value<br>
+🛠️ **Currently Building**: Agent product prototypes, workflow tools, and a personal knowledge base<br>
+✍️ **Writing & Sharing**: Notes on product ideas, tech choices, and retrospectives<br>
+💬 **Ask me about**: AI product design / Agent architecture / RAG in practice / UX design
 
 ### 🚀 Featured Projects
 
-🧵 **[Suo 梭](https://github.com/lykbb/suo)**<br>
-给 AI 产品经理的桌面工作台。<br>
-和 agent 一起把想法摊开、连起来，再写成方案。
+🧵 **[Suo](https://github.com/lykbb/suo)**<br>
+A desktop workspace for AI product managers.<br>
+Lay out ideas with an agent, connect them, and turn them into a proposal.
 
 📦 **[PromptBox](https://github.com/lykbb/PromptBox)**<br>
-从聊天记录里提炼可复用的提示词模板和规则。<br>
-数据只在浏览器里处理。
+Distills reusable prompt templates and rules from your chat history.<br>
+All data stays in your browser.
 
 🧩 **[agent-skills](https://github.com/lykbb/agent-skills)**<br>
-按用途分类的创作与 AI Skill 工作库。<br>
-包括文章、小红书图文、产品经理、漫剧提示词与工具操作。
+A library of creative and AI skills, organized by use.<br>
+Covers articles, Xiaohongshu posts, product management, short-drama prompts, and tool workflows.
 
 🤖 **[mini-agent](https://github.com/lykbb/mini-agent)**<br>
-Agent 项目练习，多智能体控制。
+An agent practice project for multi-agent control.
 
 📚 **[Rag-demo](https://github.com/lykbb/Rag-demo)**<br>
-RAG 实践 demo。
+A hands-on RAG demo.
 
 ### 🧰 Small Tools
 
 🔀 **[codex-account-switcher](https://github.com/lykbb/codex-account-switcher)**<br>
-原生 macOS 菜单栏工具，在多个 ChatGPT 账号间切换 Codex。
+A native macOS menu bar app for switching Codex between multiple ChatGPT accounts.
 
 🔍 **[xiaohongshu-douyin-check](https://github.com/lykbb/xiaohongshu-douyin-check)**<br>
-检查小红书和抖音的文案、口播、字幕有没有违规风险的 Codex Skill。
+A Codex skill that checks Xiaohongshu and Douyin copy, voiceovers, and subtitles for policy risks.
 
 ### 📬 Find Me
 
-<!-- TODO: 替换卡片里的占位账号和公众号二维码（assets/contact-card.svg） -->
-<img src="https://raw.githubusercontent.com/lykbb/lykbb/8215a6c105a7f79a2ae411cd3d1b7800680fded0/assets/contact-card.svg" width="100%" alt="联系方式：小红书、抖音、微信、公众号二维码">
+<!-- TODO: replace placeholder accounts and QR code in assets/contact-card-en.svg and assets/contact-card.svg -->
+<img src="https://raw.githubusercontent.com/lykbb/lykbb/ae59bc13c257c54561316302e7fdc139571e29a5/assets/contact-card-en.svg" width="100%" alt="Find Me: Xiaohongshu, Douyin, WeChat, WeChat Official Account QR code">
