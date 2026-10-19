@@ -36,10 +36,7 @@ Focusing on **AI Products, Agentic Systems, and RAG Architecture**.
 
 ### 📬 Find Me
 
-<!-- TODO: 替换下面的占位链接、二维码图片和微信号 -->
-- 📕 小红书：[小红书主页](https://www.xiaohongshu.com/)（待替换）
-- 🎵 抖音：[抖音主页](https://www.douyin.com/)（待替换）
-- 💬 微信：`待补充`
-- 📰 公众号：扫码关注
+<!-- TODO: 替换卡片里的占位账号和公众号二维码（assets/contact-card.svg） -->
+<img src="assets/contact-card.svg" width="100%" alt="联系方式：小红书、抖音、微信、公众号二维码">
 
-<img src="assets/wechat-qrcode-placeholder.svg" width="160" alt="公众号二维码（占位）">
+<sub>📕 [小红书](https://www.xiaohongshu.com/) · 🎵 [抖音](https://www.douyin.com/)</sub>
