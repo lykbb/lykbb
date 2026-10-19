@@ -1,4 +1,4 @@
-**English** | [中文](README.zh-CN.md)
+<p align="right"><b>English</b> | <a href="README.zh-CN.md">中文</a></p>
 
 ### 👋 Hi there, I'm Yukun Liu
 

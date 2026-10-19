@@ -1,4 +1,4 @@
-[English](README.md) | **中文**
+<p align="right"><a href="README.md">English</a> | <b>中文</b></p>
 
 ### 👋 你好，我是刘宇坤
 
