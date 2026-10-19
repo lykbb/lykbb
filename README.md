@@ -20,13 +20,23 @@ Focusing on **AI Products, Agentic Systems, and RAG Architecture**.
 
 ### 🚀 Featured Projects
 
-| 项目 | 简介 |
-|---|---|
-| [Suo 梭](https://github.com/lykbb/suo) | 给 AI 产品经理的桌面工作台，和 agent 一起把想法摊开、连起来，再写成方案 |
-| [PromptBox](https://github.com/lykbb/PromptBox) | 从聊天记录里提炼可复用的提示词模板和规则，数据只在浏览器里处理 |
-| [agent-skills](https://github.com/lykbb/agent-skills) | 按用途分类的创作与 AI Skill 工作库：文章、小红书图文、产品经理、漫剧提示词与工具操作 |
-| [mini-agent](https://github.com/lykbb/mini-agent) | Agent 项目练习，多智能体控制 |
-| [Rag-demo](https://github.com/lykbb/Rag-demo) | RAG 实践 demo |
+🧵 **[Suo 梭](https://github.com/lykbb/suo)**<br>
+给 AI 产品经理的桌面工作台。<br>
+和 agent 一起把想法摊开、连起来，再写成方案。
+
+📦 **[PromptBox](https://github.com/lykbb/PromptBox)**<br>
+从聊天记录里提炼可复用的提示词模板和规则。<br>
+数据只在浏览器里处理。
+
+🧩 **[agent-skills](https://github.com/lykbb/agent-skills)**<br>
+按用途分类的创作与 AI Skill 工作库。<br>
+包括文章、小红书图文、产品经理、漫剧提示词与工具操作。
+
+🤖 **[mini-agent](https://github.com/lykbb/mini-agent)**<br>
+Agent 项目练习，多智能体控制。
+
+📚 **[Rag-demo](https://github.com/lykbb/Rag-demo)**<br>
+RAG 实践 demo。
 
 ### 🧰 Small Tools
 
