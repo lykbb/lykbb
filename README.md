@@ -1,11 +1,11 @@
-<h3><a href="README.zh-CN.md"><img align="right" src="https://raw.githubusercontent.com/lykbb/lykbb/98b7c03222a6e2c1d18f481098cf26eec235fd41/assets/lang-switch-en.svg" height="22" alt="English | 中文 (switch to Chinese)"></a>👋 Hi there, I'm Yukun Liu</h3>
+<h2><a href="README.zh-CN.md"><img align="right" src="https://raw.githubusercontent.com/lykbb/lykbb/98b7c03222a6e2c1d18f481098cf26eec235fd41/assets/lang-switch-en.svg" height="22" alt="English | 中文 (switch to Chinese)"></a>👋 Hi there, I'm Yukun Liu</h2>
 
 <a href="https://main.yukunlab.com/">
   <!-- Pin SVGs to their asset commit to avoid stale GitHub image caches. -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/ae59bc13c257c54561316302e7fdc139571e29a5/assets/profile-terminal-dark-en.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/ae59bc13c257c54561316302e7fdc139571e29a5/assets/profile-terminal-light-en.svg">
-    <img src="https://raw.githubusercontent.com/lykbb/lykbb/ae59bc13c257c54561316302e7fdc139571e29a5/assets/profile-terminal-light-en.svg" width="100%" alt="Terminal window: Yukun Liu · AI Product Manager. Exploring AI products, building with Agents and RAG. Notes on what I learn and think along the way. Click to open main.yukunlab.com">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/9552fa2e9ba364e5cbaec84ee9ed8000cf45b081/assets/profile-terminal-dark-en.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/9552fa2e9ba364e5cbaec84ee9ed8000cf45b081/assets/profile-terminal-light-en.svg">
+    <img src="https://raw.githubusercontent.com/lykbb/lykbb/9552fa2e9ba364e5cbaec84ee9ed8000cf45b081/assets/profile-terminal-light-en.svg" width="100%" alt="Terminal window: Yukun Liu · AI Product Manager. Exploring AI products, building with Agents and RAG. Notes on what I learn and think along the way. Click to open main.yukunlab.com">
   </picture>
 </a>
 

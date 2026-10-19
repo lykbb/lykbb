@@ -1,11 +1,11 @@
-<h3><a href="README.md"><img align="right" src="https://raw.githubusercontent.com/lykbb/lykbb/98b7c03222a6e2c1d18f481098cf26eec235fd41/assets/lang-switch-zh.svg" height="22" alt="English | 中文（切换到英文）"></a>👋 你好，我是刘宇坤</h3>
+<h2><a href="README.md"><img align="right" src="https://raw.githubusercontent.com/lykbb/lykbb/98b7c03222a6e2c1d18f481098cf26eec235fd41/assets/lang-switch-zh.svg" height="22" alt="English | 中文（切换到英文）"></a>👋 你好，我是刘宇坤</h2>
 
 <a href="https://main.yukunlab.com/">
   <!-- Pin SVGs to their asset commit to avoid stale GitHub image caches. -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/ae59bc13c257c54561316302e7fdc139571e29a5/assets/profile-terminal-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/ae59bc13c257c54561316302e7fdc139571e29a5/assets/profile-terminal-light.svg">
-    <img src="https://raw.githubusercontent.com/lykbb/lykbb/ae59bc13c257c54561316302e7fdc139571e29a5/assets/profile-terminal-light.svg" width="100%" alt="终端窗口：Yukun Liu · AI 产品。探索 AI 产品，实践 Agent 与 RAG，记录学习和实践中的问题与思考。点击打开 main.yukunlab.com">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/9552fa2e9ba364e5cbaec84ee9ed8000cf45b081/assets/profile-terminal-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lykbb/lykbb/9552fa2e9ba364e5cbaec84ee9ed8000cf45b081/assets/profile-terminal-light.svg">
+    <img src="https://raw.githubusercontent.com/lykbb/lykbb/9552fa2e9ba364e5cbaec84ee9ed8000cf45b081/assets/profile-terminal-light.svg" width="100%" alt="终端窗口：Yukun Liu · AI 产品。探索 AI 产品，实践 Agent 与 RAG，记录学习和实践中的问题与思考。点击打开 main.yukunlab.com">
   </picture>
 </a>
 
