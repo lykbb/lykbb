@@ -6,6 +6,18 @@
   </picture>
 </a>
 
+### 👋 Hi there, I'm Yukun (lykbb)
+
+🎯 **AI Product Manager & Explorer**<br>
+Focusing on **AI Products, Agentic Systems, and RAG Architecture**.
+
+- 💡 **What I Do**: 探索 AI 边界，设计并落地具备真实价值的 Agent 与 RAG 产品
+- 🛠️ **Currently Building**: 智能体产品原型、工作流工具与个人知识库系统
+- ✍️ **Writing & Sharing**: 记录产品构想、技术选型与实践复盘
+- 💬 **Ask me about**: AI 产品设计 / Agent 架构 / RAG 实践 / 体验设计
+
+✨ *Let's build something awesome with AI.*
+
 <p align="center">
   <a href="https://main.yukunlab.com/">个人网站</a> · <a href="https://github.com/lykbb?tab=repositories">全部仓库</a>
 </p>
