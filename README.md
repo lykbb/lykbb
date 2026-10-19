@@ -10,6 +10,8 @@
 
 </a>
 
+### ✨ Let's build something awesome with AI.
+
 🎯 **AI Product Manager & Explorer**<br>
 Focusing on **AI Products, Agentic Systems, and RAG Architecture**.
 
@@ -45,8 +47,6 @@ RAG 实践 demo。
 
 🔍 **[xiaohongshu-douyin-check](https://github.com/lykbb/xiaohongshu-douyin-check)**<br>
 检查小红书和抖音的文案、口播、字幕有没有违规风险的 Codex Skill。
-
-✨ *Let's build something awesome with AI.*
 
 ### 📬 Find Me
 
