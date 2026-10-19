@@ -49,4 +49,4 @@ A Codex skill that checks Xiaohongshu and Douyin copy, voiceovers, and subtitles
 
 <a href="#-find-me"><img src="https://raw.githubusercontent.com/lykbb/lykbb/e51576807ca7841c0633e2c51d3a8942d0dc2e6e/assets/contact-card-en.svg" width="100%" alt="Find Me: Xiaohongshu, Douyin, WeChat, WeChat Official Account QR code"></a>
 
-<p align="center">📕 Xiaohongshu <a href="https://xhslink.cn/o/1aomKivHwPy"><b>数字泡泡～</b></a> · 🎵 Douyin <a href="https://v.douyin.com/BzNw-qBYZjU"><b>数字泡泡～</b></a> · 📰 💬 WeChat <b>Digital_Yukun</b> · Official Account <b>AI时分</b></p>
+<p align="center">📕 Xiaohongshu <a href="https://xhslink.cn/o/1aomKivHwPy"><b>数字泡泡～</b></a> · 🎵 Douyin <a href="https://v.douyin.com/BzNw-qBYZjU"><b>数字泡泡～</b></a> · 💬 WeChat <b>Digital_Yukun</b> · 📰 Official Account <b>AI时分</b></p>
