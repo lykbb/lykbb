@@ -13,8 +13,7 @@
 
 ### ✨ Let's build something awesome with AI.
 
-🎯 **AI Product Manager & Explorer**<br>
-Focusing on **AI Products, Agentic Systems, and RAG Architecture**.
+🎯 **AI Product Manager & Explorer** · Focusing on **AI Products, Agentic Systems, and RAG Architecture**.
 
 💡 **What I Do**: Exploring the edges of AI, and designing and shipping Agent and RAG products with real value<br>
 🛠️ **Currently Building**: Agent product prototypes, workflow tools, and a personal knowledge base<br>
