@@ -38,5 +38,3 @@
 ### 📬 联系我
 
 <p align="center"><img src="assets/contact-card.svg" width="100%" alt="微信公众号「AI时分」二维码：微信扫码关注"></p>
-
-<p align="center">🎵 抖音 <a href="https://v.douyin.com/BzNw-qBYZjU"><b>数字泡泡～</b></a> · 💬 微信 <b>Digital_Yukun</b></p>

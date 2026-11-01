@@ -38,5 +38,3 @@
 ### 📬 Find Me
 
 <p align="center"><img src="assets/contact-card-en.svg" width="100%" alt="WeChat Official Account AI时分: scan the QR code with WeChat to follow"></p>
-
-<p align="center">🎵 Douyin <a href="https://v.douyin.com/BzNw-qBYZjU"><b>数字泡泡～</b></a> · 💬 WeChat <b>Digital_Yukun</b></p>
