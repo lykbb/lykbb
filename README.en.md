@@ -19,34 +19,24 @@
 
 ### 🚀 Featured Projects
 
-🧵 **[Suo](https://github.com/lykbb/suo)**<br>
-A desktop workspace for AI product managers.<br>
-Lay out ideas with an agent, connect them, and turn them into a proposal.
-
-📦 **[PromptBox](https://github.com/lykbb/PromptBox)**<br>
-Distills reusable prompt templates and rules from your chat history.<br>
-All data stays in your browser.
-
-🧩 **[agent-skills](https://github.com/lykbb/agent-skills)**<br>
-A library of creative and AI skills, organized by use.<br>
-Covers articles, Xiaohongshu posts, product management, short-drama prompts, and tool workflows.
-
-🤖 **[mini-agent](https://github.com/lykbb/mini-agent)**<br>
-An agent practice project for multi-agent control.
-
-📚 **[Rag-demo](https://github.com/lykbb/Rag-demo)**<br>
-A hands-on RAG demo.
+<p align="center">
+<a href="https://github.com/lykbb/suo"><img src="assets/cards/suo-en.svg" width="49%" alt="Suo: A desktop workspace for AI product managers. Connect ideas with an agent into a proposal."></a>
+<a href="https://github.com/lykbb/PromptBox"><img src="assets/cards/promptbox-en.svg" width="49%" alt="PromptBox: Distills reusable prompt templates from chats. All data stays in your browser."></a>
+<a href="https://github.com/lykbb/agent-skills"><img src="assets/cards/agent-skills-en.svg" width="49%" alt="agent-skills: A library of creative and AI skills, by use. Articles, Xiaohongshu posts, PM, prompts &amp; more."></a>
+<a href="https://github.com/lykbb/mini-agent"><img src="assets/cards/mini-agent-en.svg" width="49%" alt="mini-agent: An agent practice project for multi-agent control."></a>
+<a href="https://github.com/lykbb/Rag-demo"><img src="assets/cards/rag-demo-en.svg" width="49%" alt="Rag-demo: A hands-on RAG demo."></a>
+<a href="https://github.com/lykbb?tab=repositories"><img src="assets/cards/more-en.svg" width="49%" alt="More projects: Browse all my repositories on GitHub."></a>
+</p>
 
 ### 🧰 Small Tools
 
-🔀 **[codex-account-switcher](https://github.com/lykbb/codex-account-switcher)**<br>
-A native macOS menu bar app for switching Codex between multiple ChatGPT accounts.
-
-🔍 **[xiaohongshu-douyin-check](https://github.com/lykbb/xiaohongshu-douyin-check)**<br>
-A Codex skill that checks Xiaohongshu and Douyin copy, voiceovers, and subtitles for policy risks.
+<p align="center">
+<a href="https://github.com/lykbb/codex-account-switcher"><img src="assets/cards/codex-account-switcher-en.svg" width="49%" alt="codex-account-switcher: Native macOS menu bar app for switching Codex between multiple ChatGPT accounts."></a>
+<a href="https://github.com/lykbb/xiaohongshu-douyin-check"><img src="assets/cards/xiaohongshu-douyin-check-en.svg" width="49%" alt="xiaohongshu-douyin-check: Checks Xiaohongshu &amp; Douyin copy, voiceovers and subtitles for policy risks."></a>
+</p>
 
 ### 📬 Find Me
 
-<a href="#-find-me"><img src="https://raw.githubusercontent.com/lykbb/lykbb/e51576807ca7841c0633e2c51d3a8942d0dc2e6e/assets/contact-card-en.svg" width="100%" alt="Find Me: Xiaohongshu, Douyin, WeChat, WeChat Official Account QR code"></a>
+<p align="center"><img src="assets/contact-card-en.svg" width="100%" alt="WeChat Official Account AI时分: scan the QR code with WeChat to follow"></p>
 
-<p align="center">📕 Xiaohongshu <b>数字泡泡～</b> · 🎵 Douyin <a href="https://v.douyin.com/BzNw-qBYZjU"><b>数字泡泡～</b></a> · 💬 WeChat <b>Digital_Yukun</b> · 📰 Official Account <b>AI时分</b></p>
+<p align="center">🎵 Douyin <a href="https://v.douyin.com/BzNw-qBYZjU"><b>数字泡泡～</b></a> · 💬 WeChat <b>Digital_Yukun</b></p>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" role="img" aria-label="codex-account-switcher: Native macOS menu bar app for switching Codex between multiple ChatGPT accounts.">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC','Noto Sans CJK SC',Helvetica,Arial,sans-serif}
+.bg{fill:#ffffff;stroke:#d0d7de}
+.t{fill:#1f2328;font-size:18px;font-weight:700}
+.d{fill:#59636e;font-size:14px}
+.a{stroke:#0969da}
+.pb{fill:#fff8c5}
+.pt{fill:#9a6700;font-size:12px;font-weight:600}
+@media (prefers-color-scheme: dark){
+.bg{fill:#0d1117;stroke:#3d444d}
+.t{fill:#f0f6fc}
+.d{fill:#9198a1}
+.a{stroke:#4493f8}
+.pb{fill:#4b2900}
+.pt{fill:#e3b341}
+}
+</style>
+<rect class="bg" x="1" y="1" width="438" height="148" rx="12" stroke-width="1.2"/>
+<text class="t" x="24" y="40">codex-account-switcher</text>
+<g class="a" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M402 38 L414 26 M404 26 H414 V36"/></g>
+<text class="d" x="24" y="70">Native macOS menu bar app for switching</text><text class="d" x="24" y="91">Codex between multiple ChatGPT accounts.</text>
+<rect class="pb" x="24" y="110" width="95" height="22" rx="11"/>
+<text class="pt" x="71.4" y="125" text-anchor="middle">macOS Tool</text>
+</svg>

@@ -19,34 +19,24 @@
 
 ### 🚀 精选项目
 
-🧵 **[Suo 梭](https://github.com/lykbb/suo)**<br>
-给 AI 产品经理的桌面工作台。<br>
-和 agent 一起把想法摊开、连起来，再写成方案。
-
-📦 **[PromptBox](https://github.com/lykbb/PromptBox)**<br>
-从聊天记录里提炼可复用的提示词模板和规则。<br>
-数据只在浏览器里处理。
-
-🧩 **[agent-skills](https://github.com/lykbb/agent-skills)**<br>
-按用途分类的创作与 AI Skill 工作库。<br>
-包括文章、小红书图文、产品经理、漫剧提示词与工具操作。
-
-🤖 **[mini-agent](https://github.com/lykbb/mini-agent)**<br>
-Agent 项目练习，多智能体控制。
-
-📚 **[Rag-demo](https://github.com/lykbb/Rag-demo)**<br>
-RAG 实践 demo。
+<p align="center">
+<a href="https://github.com/lykbb/suo"><img src="assets/cards/suo.svg" width="49%" alt="Suo 梭: 给 AI 产品经理的桌面工作台。和 Agent 一起把想法连起来，写成方案。"></a>
+<a href="https://github.com/lykbb/PromptBox"><img src="assets/cards/promptbox.svg" width="49%" alt="PromptBox: 从聊天记录里提炼可复用的提示词模板和规则。数据只在浏览器里处理。"></a>
+<a href="https://github.com/lykbb/agent-skills"><img src="assets/cards/agent-skills.svg" width="49%" alt="agent-skills: 按用途分类的创作与 AI Skill 工作库。文章、小红书图文、产品经理、漫剧提示词等。"></a>
+<a href="https://github.com/lykbb/mini-agent"><img src="assets/cards/mini-agent.svg" width="49%" alt="mini-agent: Agent 项目练习，多智能体控制。"></a>
+<a href="https://github.com/lykbb/Rag-demo"><img src="assets/cards/rag-demo.svg" width="49%" alt="Rag-demo: RAG 实践 demo。"></a>
+<a href="https://github.com/lykbb?tab=repositories"><img src="assets/cards/more.svg" width="49%" alt="更多项目: 在 GitHub 上查看我的全部仓库。"></a>
+</p>
 
 ### 🧰 小工具
 
-🔀 **[codex-account-switcher](https://github.com/lykbb/codex-account-switcher)**<br>
-原生 macOS 菜单栏工具，在多个 ChatGPT 账号间切换 Codex。
-
-🔍 **[xiaohongshu-douyin-check](https://github.com/lykbb/xiaohongshu-douyin-check)**<br>
-检查小红书和抖音的文案、口播、字幕有没有违规风险的 Codex Skill。
+<p align="center">
+<a href="https://github.com/lykbb/codex-account-switcher"><img src="assets/cards/codex-account-switcher.svg" width="49%" alt="codex-account-switcher: 原生 macOS 菜单栏工具，在多个 ChatGPT 账号间切换 Codex。"></a>
+<a href="https://github.com/lykbb/xiaohongshu-douyin-check"><img src="assets/cards/xiaohongshu-douyin-check.svg" width="49%" alt="xiaohongshu-douyin-check: 检查小红书、抖音的文案、口播、字幕有没有违规风险。"></a>
+</p>
 
 ### 📬 联系我
 
-<a href="#-联系我"><img src="https://raw.githubusercontent.com/lykbb/lykbb/e51576807ca7841c0633e2c51d3a8942d0dc2e6e/assets/contact-card.svg" width="100%" alt="联系方式：小红书、抖音、微信、公众号二维码"></a>
+<p align="center"><img src="assets/contact-card.svg" width="100%" alt="微信公众号「AI时分」二维码：微信扫码关注"></p>
 
-<p align="center">📕 小红书 <b>数字泡泡～</b> · 🎵 抖音 <a href="https://v.douyin.com/BzNw-qBYZjU"><b>数字泡泡～</b></a> · 💬 微信 <b>Digital_Yukun</b> · 📰 公众号 <b>AI时分</b></p>
+<p align="center">🎵 抖音 <a href="https://v.douyin.com/BzNw-qBYZjU"><b>数字泡泡～</b></a> · 💬 微信 <b>Digital_Yukun</b></p>

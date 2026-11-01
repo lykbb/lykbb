@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" role="img" aria-label="Rag-demo: RAG 实践 demo。">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC','Noto Sans CJK SC',Helvetica,Arial,sans-serif}
+.bg{fill:#ffffff;stroke:#d0d7de}
+.t{fill:#1f2328;font-size:18px;font-weight:700}
+.d{fill:#59636e;font-size:14px}
+.a{stroke:#0969da}
+.pb{fill:#d8f6f3}
+.pt{fill:#0f766e;font-size:12px;font-weight:600}
+@media (prefers-color-scheme: dark){
+.bg{fill:#0d1117;stroke:#3d444d}
+.t{fill:#f0f6fc}
+.d{fill:#9198a1}
+.a{stroke:#4493f8}
+.pb{fill:#0b3b37}
+.pt{fill:#5eead4}
+}
+</style>
+<rect class="bg" x="1" y="1" width="438" height="148" rx="12" stroke-width="1.2"/>
+<text class="t" x="24" y="40">Rag-demo</text>
+<g class="a" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M402 38 L414 26 M404 26 H414 V36"/></g>
+<text class="d" x="24" y="70">RAG 实践 demo。</text>
+<rect class="pb" x="24" y="110" width="78" height="22" rx="11"/>
+<text class="pt" x="63.0" y="125" text-anchor="middle">RAG 实践</text>
+</svg>
