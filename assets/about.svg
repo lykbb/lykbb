@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-label="AI 产品经理 &amp; 探索者">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC','Noto Sans CJK SC',Helvetica,Arial,sans-serif}.bg{fill:#ffffff;stroke:#d0d7de}.t{fill:#1f2328;font-size:22px;font-weight:700}.d{fill:#59636e;font-size:14px}.tile{fill:#f6f8fa;stroke:#e1e4e8}.l{fill:#1f2328;font-size:15px;font-weight:700}.lab{fill:#59636e;font-size:13px;font-weight:600}.c0{fill:#0969da}.c1{fill:#1a7f37}.c2{fill:#8250df}.pb{fill:#fff1e5}.pt{fill:#bc4c00;font-size:12px;font-weight:600}@media (prefers-color-scheme: dark){.bg{fill:#0d1117;stroke:#3d444d}.t{fill:#f0f6fc}.d{fill:#9198a1}.tile{fill:#151b23;stroke:#30363d}.l{fill:#f0f6fc}.lab{fill:#9198a1}.c0{fill:#4493f8}.c1{fill:#3fb950}.c2{fill:#d2a8ff}.pb{fill:#4a2511}.pt{fill:#ffa657}}</style>
+<rect class="bg" x="1" y="1" width="898" height="278" rx="14" stroke-width="1.2"/>
+<text class="t" x="28" y="48">AI 产品经理 &amp; 探索者</text>
+<text class="d" x="28" y="76">专注 AI 产品、Agent 系统与 RAG 架构</text>
+<rect class="tile" x="28.0" y="100" width="270.7" height="112" rx="10" stroke-width="1"/>
+<rect class="c0" x="46.0" y="120" width="4" height="18" rx="2"/>
+<text class="l" x="58.0" y="135">我在做什么</text>
+<text class="d" x="46.0" y="164">探索 AI 边界，设计并落地</text>
+<text class="d" x="46.0" y="185">具备真实价值的 Agent 与 RAG 产品</text>
+<rect class="tile" x="314.7" y="100" width="270.7" height="112" rx="10" stroke-width="1"/>
+<rect class="c1" x="332.7" y="120" width="4" height="18" rx="2"/>
+<text class="l" x="344.7" y="135">正在搭建</text>
+<text class="d" x="332.7" y="164">智能体产品原型、工作流工具</text>
+<text class="d" x="332.7" y="185">与个人知识库系统</text>
+<rect class="tile" x="601.3" y="100" width="270.7" height="112" rx="10" stroke-width="1"/>
+<rect class="c2" x="619.3" y="120" width="4" height="18" rx="2"/>
+<text class="l" x="631.3" y="135">写作与分享</text>
+<text class="d" x="619.3" y="164">记录产品构想、技术选型</text>
+<text class="d" x="619.3" y="185">与实践复盘</text>
+<text class="lab" x="28" y="256">可以和我聊</text>
+<rect class="pb" x="109.0" y="240" width="93.6" height="22" rx="11"/>
+<text class="pt" x="155.8" y="255" text-anchor="middle">AI 产品设计</text>
+<rect class="pb" x="212.6" y="240" width="91.2" height="22" rx="11"/>
+<text class="pt" x="258.2" y="255" text-anchor="middle">Agent 架构</text>
+<rect class="pb" x="313.8" y="240" width="76.8" height="22" rx="11"/>
+<text class="pt" x="352.2" y="255" text-anchor="middle">RAG 实践</text>
+<rect class="pb" x="400.6" y="240" width="72.0" height="22" rx="11"/>
+<text class="pt" x="436.6" y="255" text-anchor="middle">体验设计</text>
+</svg>

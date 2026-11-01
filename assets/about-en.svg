@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="296" viewBox="0 0 900 296" role="img" aria-label="AI Product Manager &amp; Explorer">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans SC','Noto Sans CJK SC',Helvetica,Arial,sans-serif}.bg{fill:#ffffff;stroke:#d0d7de}.t{fill:#1f2328;font-size:22px;font-weight:700}.d{fill:#59636e;font-size:14px}.tile{fill:#f6f8fa;stroke:#e1e4e8}.l{fill:#1f2328;font-size:15px;font-weight:700}.lab{fill:#59636e;font-size:13px;font-weight:600}.c0{fill:#0969da}.c1{fill:#1a7f37}.c2{fill:#8250df}.pb{fill:#fff1e5}.pt{fill:#bc4c00;font-size:12px;font-weight:600}@media (prefers-color-scheme: dark){.bg{fill:#0d1117;stroke:#3d444d}.t{fill:#f0f6fc}.d{fill:#9198a1}.tile{fill:#151b23;stroke:#30363d}.l{fill:#f0f6fc}.lab{fill:#9198a1}.c0{fill:#4493f8}.c1{fill:#3fb950}.c2{fill:#d2a8ff}.pb{fill:#4a2511}.pt{fill:#ffa657}}</style>
+<rect class="bg" x="1" y="1" width="898" height="294" rx="14" stroke-width="1.2"/>
+<text class="t" x="28" y="48">AI Product Manager &amp; Explorer</text>
+<text class="d" x="28" y="76">Focusing on AI products, agentic systems and RAG architecture</text>
+<rect class="tile" x="28.0" y="100" width="270.7" height="128" rx="10" stroke-width="1"/>
+<rect class="c0" x="46.0" y="120" width="4" height="18" rx="2"/>
+<text class="l" x="58.0" y="135">What I Do</text>
+<text class="d" x="46.0" y="164">Exploring the edges of AI, and</text>
+<text class="d" x="46.0" y="185">shipping Agent &amp; RAG products</text>
+<text class="d" x="46.0" y="206">with real value</text>
+<rect class="tile" x="314.7" y="100" width="270.7" height="128" rx="10" stroke-width="1"/>
+<rect class="c1" x="332.7" y="120" width="4" height="18" rx="2"/>
+<text class="l" x="344.7" y="135">Currently Building</text>
+<text class="d" x="332.7" y="164">Agent product prototypes,</text>
+<text class="d" x="332.7" y="185">workflow tools and a personal</text>
+<text class="d" x="332.7" y="206">knowledge base</text>
+<rect class="tile" x="601.3" y="100" width="270.7" height="128" rx="10" stroke-width="1"/>
+<rect class="c2" x="619.3" y="120" width="4" height="18" rx="2"/>
+<text class="l" x="631.3" y="135">Writing &amp; Sharing</text>
+<text class="d" x="619.3" y="164">Notes on product ideas,</text>
+<text class="d" x="619.3" y="185">tech choices and</text>
+<text class="d" x="619.3" y="206">retrospectives</text>
+<text class="lab" x="28" y="272">Ask me about</text>
+<rect class="pb" x="137.6" y="256" width="146.4" height="22" rx="11"/>
+<text class="pt" x="210.8" y="271" text-anchor="middle">AI product design</text>
+<rect class="pb" x="294.0" y="256" width="153.6" height="22" rx="11"/>
+<text class="pt" x="370.8" y="271" text-anchor="middle">Agent architecture</text>
+<rect class="pb" x="457.6" y="256" width="132.0" height="22" rx="11"/>
+<text class="pt" x="523.6" y="271" text-anchor="middle">RAG in practice</text>
+<rect class="pb" x="599.6" y="256" width="88.8" height="22" rx="11"/>
+<text class="pt" x="644.0" y="271" text-anchor="middle">UX design</text>
+</svg>
